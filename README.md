@@ -1,4 +1,12 @@
-# ✨ Instagram_database_clone ✨
+# 
+
+<table>
+  <tr>
+    <td><h1>✨ Instagram database clone Project ✨ </h1></td>
+    <td><img src="/assets/tumblr_mxrk1aCoT41qft49to1_500.gif" alt="Code GIF" width="350" /></td>
+  </tr>
+</table>
+
 
 ### Languages & Tools I Used 
 

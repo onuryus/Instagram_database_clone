@@ -24,7 +24,7 @@ As shown, there are 7 different tables and connections."
 You can find the SQL file I used to create the database under the name 'ins.sql'. Additionally, in the 'sorgular.sql' file, you can find various queries. These queries and their purposes are as follows:
 
 #### Queries 
-Query 1: Finding the oldest user.
+#####Query 1: Finding the oldest user.
 
 Query 2: Identifying the top 3 most popular days for new user registrations—the days when the most users signed up in the past. 
   This query provides insight into which days might be most effective for targeted advertising with a limited budget.
